@@ -1,0 +1,1 @@
+{"ContentRoots":["D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\wwwroot\\"],"Root":{"Children":{"ocelot.merged.routes.json":{"Children":null,"Asset":{"ContentRootIndex":0,"SubPath":"ocelot.merged.routes.json"},"Patterns":null}},"Asset":null,"Patterns":[{"ContentRootIndex":0,"Pattern":"**","Depth":0}]}}

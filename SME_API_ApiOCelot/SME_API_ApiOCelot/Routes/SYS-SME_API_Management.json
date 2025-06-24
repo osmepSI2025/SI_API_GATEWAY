@@ -1,0 +1,18 @@
+{
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-API/TAPIMapping/GetAPIList",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-API/TAPIMapping/GetAPIList",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10113
+        }
+      ],
+      "SwaggerKey": "SYS-API"
+    }
+
+  ]
+}

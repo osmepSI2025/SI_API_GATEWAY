@@ -1,0 +1,18 @@
+{
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-GDX/JuristicPerson",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-GDX/JuristicPerson",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10106
+        }
+      ],
+      "SwaggerKey": "SYS-GDX"
+    }
+ 
+  ]
+}

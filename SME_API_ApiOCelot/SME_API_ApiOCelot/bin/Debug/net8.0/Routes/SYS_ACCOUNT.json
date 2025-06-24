@@ -1,0 +1,18 @@
+{
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-ACCOUNT/Budgetavailable",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-ACCOUNT/Budgetavailable",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10107
+        }
+      ],
+      "SwaggerKey": "SYS_ACCOUNT"
+    }
+
+  ]
+}

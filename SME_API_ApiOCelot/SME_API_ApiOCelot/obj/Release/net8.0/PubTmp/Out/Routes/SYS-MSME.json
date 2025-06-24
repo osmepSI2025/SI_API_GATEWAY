@@ -1,0 +1,173 @@
+{
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-MSME/bugget-plan/{projectId}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-MSME/bugget-plan/{projectId}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10103
+        }
+      ],
+      "SwaggerKey": "SYS-MSME"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-MSME/disbursement-result/{projectCode}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-MSME/disbursement-result/{projectCode}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10103
+        }
+      ],
+      "SwaggerKey": "SYS-MSME"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-MSME/economic-value/{year}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-MSME/economic-value/{year}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10103
+        }
+      ],
+      "SwaggerKey": "SYS-MSME"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-MSME/expected-outcome/{projectCode}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-MSME/expected-outcome/{projectCode}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10103
+        }
+      ],
+      "SwaggerKey": "SYS-MSME"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-MSME/expected-outcome-result/{projectCode}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-MSME/expected-outcome-result/{projectCode}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10103
+        }
+      ],
+      "SwaggerKey": "SYS-MSME"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-MSME/outcome-result/{projectCode}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-MSME/outcome-result/{projectCode}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10103
+        }
+      ],
+      "SwaggerKey": "SYS-MSME"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-MSME/performance-result/{projectCode}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-MSME/performance-result/{projectCode}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10103
+        }
+      ],
+      "SwaggerKey": "SYS-MSME"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-MSME/product-result/{projectCode}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-MSME/product-result/{projectCode}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10103
+        }
+      ],
+      "SwaggerKey": "SYS-MSME"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-MSME/project-activity/{projectCode}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-MSME/project-activity/{projectCode}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10103
+        }
+      ],
+      "SwaggerKey": "SYS-MSME"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-MSME/project-area/{projectCode}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-MSME/project-area/{projectCode}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10103
+        }
+      ],
+      "SwaggerKey": "SYS-MSME"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-MSME/project/{year}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-MSME/project/{year}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10103
+        }
+      ],
+      "SwaggerKey": "SYS-MSME"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-MSME/project-outcome/{projectCode}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-MSME/project-outcome/{projectCode}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10103
+        }
+      ],
+      "SwaggerKey": "SYS-MSME"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-MSME/project-product/{projectCode}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-MSME/project-product/{projectCode}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10103
+        }
+      ],
+      "SwaggerKey": "SYS-MSME"
+    }
+  ]
+}

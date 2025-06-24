@@ -1,0 +1,154 @@
+{
+  "Routes": [
+    {
+
+      //Begin SME Budget
+      "UpstreamPathTemplate": "/sme_gateway/SYS-BUDGET/Return_Project/{year}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-BUDGET/Return_Project/{year}",
+      "DownstreamScheme": "http",
+      // "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10104
+
+          //  "Port": 44306
+
+
+        }
+      ],
+      "SwaggerKey": "SYS-BUDGET"
+    },
+
+    {
+      //Return_P_Area
+      "UpstreamPathTemplate": "/sme_gateway/SYS-BUDGET/Return_P_Area/{year}/{projectcode}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-BUDGET/Return_P_Area/{year}/{projectCode}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10104
+        }
+      ],
+      "SwaggerKey": "SYS-BUDGET"
+    },
+    { //Return_P_output
+      "UpstreamPathTemplate": "/sme_gateway/SYS-BUDGET/Return_P_output/{year}/{projectCode}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-BUDGET/Return_P_output/{year}/{projectCode}",
+      "DownstreamScheme": "http",
+      //"DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10104
+          // "Port": 44306
+        }
+      ],
+      "SwaggerKey": "SYS-BUDGET"
+    },
+    { //Return_P_Outcome
+      "UpstreamPathTemplate": "/sme_gateway/SYS-BUDGET/Return_P_Outcome/{year}/{projectCode}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-BUDGET/Return_P_Outcome/{year}/{projectCode}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10104
+        }
+      ],
+      "SwaggerKey": "SYS-BUDGET"
+    },
+    { //Return_P_Expected
+      "UpstreamPathTemplate": "/sme_gateway/SYS-BUDGET/Return_P_Expected/{year}/{projectCode}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-BUDGET/Return_P_Expected/{year}/{projectCode}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10104
+        }
+      ],
+      "SwaggerKey": "SYS-BUDGET"
+    },
+    { //Return_P_Activity
+      "UpstreamPathTemplate": "/sme_gateway/SYS-BUDGET/Return_P_Activity/{year}/{projectCode}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-BUDGET/Return_P_Activity/{year}/{projectCode}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10104
+        }
+      ],
+      "SwaggerKey": "SYS-BUDGET"
+    },
+    { //Return_P_Plan_Bdg
+      "UpstreamPathTemplate": "/sme_gateway/SYS-BUDGET/Return_P_Plan_Bdg/{year}/{projectCode}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-BUDGET/Return_P_Plan_Bdg/{year}/{projectCode}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10104
+        }
+      ],
+      "SwaggerKey": "SYS-BUDGET"
+    },
+    { //Return_P_Risk
+      "UpstreamPathTemplate": "/sme_gateway/SYS-BUDGET/Return_P_Risk/{year}/{projectCode}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-BUDGET/Return_P_Risk/{year}/{projectCode}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10104
+        }
+      ],
+      "SwaggerKey": "SYS-BUDGET"
+    },
+    { //Return_P_Pay
+      "UpstreamPathTemplate": "/sme_gateway/SYS-BUDGET/Return_P_Pay/{year}/{projectCode}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-BUDGET/Return_P_Pay/{year}/{projectCode}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10104
+        }
+      ],
+      "SwaggerKey": "SYS-BUDGET"
+    },
+
+    { //Rec_P_Rs
+      "UpstreamPathTemplate": "/sme_gateway/SYS-BUDGET/Rec_P_Rs/{year}/{projectCode}/{ref_code}",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-BUDGET/Rec_P_Rs/{year}/{projectCode}/{ref_code}",
+      "DownstreamScheme": "http",
+      // "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10104
+          //"Port": 44306
+        }
+      ],
+      "SwaggerKey": "SYS-BUDGET"
+    }
+    //End SME Budget
+
+
+   
+
+    // SME HR END
+  ]
+}

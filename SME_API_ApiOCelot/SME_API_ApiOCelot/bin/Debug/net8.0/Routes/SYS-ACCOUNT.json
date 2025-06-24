@@ -1,0 +1,43 @@
+{
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-ACCOUNT/Master/budgetavailable",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-ACCOUNT/Master/GetBudgetavailable",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10107
+        }
+      ],
+      "SwaggerKey": "SYS-ACCOUNT"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-ACCOUNT/Master/budgetentires",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-ACCOUNT/Budgetentire",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10107
+        }
+      ],
+      "SwaggerKey": "SYS-ACCOUNT"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-ACCOUNT/Master/budgetmapping",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-ACCOUNT/BudgetMapping",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10107
+        }
+      ],
+      "SwaggerKey": "SYS-ACCOUNT"
+    }
+  ]
+}

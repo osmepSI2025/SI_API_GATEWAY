@@ -1,0 +1,57 @@
+{
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-WORKFLOW/Workflow",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-WORKFLOW/Workflow",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10112
+        }
+      ],
+      "SwaggerKey": "SYS-WORKFLOW"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-WORKFLOW/WorkflowActivity",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-WORKFLOW/WorkflowActivity",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10112
+        }
+      ],
+      "SwaggerKey": "SYS-WORKFLOW"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-WORKFLOW/WorkflowControlPoint",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-WORKFLOW/WorkflowControlPoint",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10112
+        }
+      ],
+      "SwaggerKey": "SYS-WORKFLOW"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-WORKFLOW/WorkflowLeadingLagging",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-WORKFLOW/WorkflowLeadingLagging",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10112
+        }
+      ],
+      "SwaggerKey": "SYS-WORKFLOW"
+    }
+
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-KPI/DimensionSystem/getdimenson",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-KPI/DimensionSystem/getdimenson",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10108
+        }
+      ],
+      "SwaggerKey": "SYS-KPI"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-KPI/divisionSystem/getdivision",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-KPI/divisionSystem/getdivision",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10108
+        }
+      ],
+      "SwaggerKey": "SYS-KPI"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-KPI/Master/GetStatus",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-KPI/Master/GetStatus",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10108
+        }
+      ],
+      "SwaggerKey": "SYS-KPI"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-KPI/Master/GetYear",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-KPI/Master/GetYear",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10108
+        }
+      ],
+      "SwaggerKey": "SYS-KPI"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-KPI/Master/GetkpiType",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-KPI/Master/GetkpiType",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10108
+        }
+      ],
+      "SwaggerKey": "SYS-KPI"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-KPI/Master/Getmeasure",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-KPI/Master/Getmeasure",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10108
+        }
+      ],
+      "SwaggerKey": "SYS-KPI"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-KPI/Master/inputFormate",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-KPI/Master/inputFormate",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10108
+        }
+      ],
+      "SwaggerKey": "SYS-KPI"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-KPI/PlanSystem/Getlist",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-KPI/PlanSystem/Getlist",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10108
+        }
+      ],
+      "SwaggerKey": "SYS-KPI"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-KPI/PlanSystem/GetKpiTarget",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-KPI/PlanSystem/GetKpiTarget",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10108
+        }
+      ],
+      "SwaggerKey": "SYS-KPI"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-KPI/PlanSystem/GetKPI",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-KPI/PlanSystem/GetKPI",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10108
+        }
+      ],
+      "SwaggerKey": "SYS-KPI"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-KPI/PlanSystem/getPeriod",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-KPI/PlanSystem/getPeriod",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10108
+        }
+      ],
+      "SwaggerKey": "SYS-KPI"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-KPI/PlanSystem/gettargetdescription",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-KPI/PlanSystem/gettargetdescription",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10108
+        }
+      ],
+      "SwaggerKey": "SYS-KPI"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-KPI/PlanSystem/getkpidescription",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-KPI/PlanSystem/getkpidescription",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10108
+        }
+      ],
+      "SwaggerKey": "SYS-KPI"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-KPI/PlanSystem/GetKpiAssign",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-KPI/PlanSystem/GetKpiAssign",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10108
+        }
+      ],
+      "SwaggerKey": "SYS-KPI"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-KPI/PlanSystem/Getweight",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-KPI/PlanSystem/Getweight",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10108
+        }
+      ],
+      "SwaggerKey": "SYS-KPI"
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-RISK/internal-controls/activities",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-RISK/internal-controls/activities",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10109
+        }
+      ],
+      "SwaggerKey": "SYS-RISK"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-RISK/internal-controls/evaluations",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-RISK/internal-controls/evaluations",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10109
+        }
+      ],
+      "SwaggerKey": "SYS-RISK"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-RISK/internal-controls/reports",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-RISK/internal-controls/reports",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10109
+        }
+      ],
+      "SwaggerKey": "SYS-RISK"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-RISK/master/risk-factors",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-RISK/master/risk-factors",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10109
+        }
+      ],
+      "SwaggerKey": "SYS-RISK"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-RISK/master/risk-types",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-RISK/master/risk-types",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10109
+        }
+      ],
+      "SwaggerKey": "SYS-RISK"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-RISK/master/risk-universe",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-RISK/master/risk-universe",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10109
+        }
+      ],
+      "SwaggerKey": "SYS-RISK"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-RISK/master/risk-owners",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-RISK/master/risk-Owner",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10109
+        }
+      ],
+      "SwaggerKey": "SYS-RISK"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-RISK/master/risk-levels",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-RISK/master/risk-levels",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10109
+        }
+      ],
+      "SwaggerKey": "SYS-RISK"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-RISK/master/risk-treatment-options",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-RISK/master/risk-treatment-option",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10109
+        }
+      ],
+      "SwaggerKey": "SYS-RISK"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-RISK/master/risk-B-Table",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-RISK/master/risk-B-Table",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10109
+        }
+      ],
+      "SwaggerKey": "SYS-RISK"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-RISK/risk/kpis",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-RISK/risk/kpis",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10109
+        }
+      ],
+      "SwaggerKey": "SYS-RISK"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-RISK/risk/impacts",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-RISK/risk/impacts",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10109
+        }
+      ],
+      "SwaggerKey": "SYS-RISK"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-RISK/risk/triggers",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-RISK/risk/triggers",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10109
+        }
+      ],
+      "SwaggerKey": "SYS-RISK"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-RISK/risk/root-causes",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-RISK/risk/root-causes",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10109
+        }
+      ],
+      "SwaggerKey": "SYS-RISK"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-RISK/risk/plan-existing-controls",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-RISK/risk/plan-existing-controls",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10109
+        }
+      ],
+      "SwaggerKey": "SYS-RISK"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-RISK/risk/emergency-plan",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-RISK/risk/emergency-plan",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10109
+        }
+      ],
+      "SwaggerKey": "SYS-RISK"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-RISK/risk/leading",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-RISK/risk/leading",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10109
+        }
+      ],
+      "SwaggerKey": "SYS-RISK"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-RISK/risk/lagging",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-RISK/risk/lagging",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10109
+        }
+      ],
+      "SwaggerKey": "SYS-RISK"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-RISK/risk/a-table",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-RISK/risk/a-table",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10109
+        }
+      ],
+      "SwaggerKey": "SYS-RISK"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-RISK/risk/data-history",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-RISK/risk/data-history",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10109
+        }
+      ],
+      "SwaggerKey": "SYS-RISK"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-RISK/risk/c-table",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-RISK/risk/c-table",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10109
+        }
+      ],
+      "SwaggerKey": "SYS-RISK"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-RISK/risk/after-plan-risk",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-RISK/risk/after-plan-risk",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10109
+        }
+      ],
+      "SwaggerKey": "SYS-RISK"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-RISK/risk/performances",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-RISK/risk/performances",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10109
+        }
+      ],
+      "SwaggerKey": "SYS-RISK"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-RISK/risk/existing-controls",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-RISK/risk/existing-controls",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10109
+        }
+      ],
+      "SwaggerKey": "SYS-RISK"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-RISK/risk/result",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-RISK/risk/result",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10109
+        }
+      ],
+      "SwaggerKey": "SYS-RISK"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-RISK/risk/risk-levels",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-RISK/risk/risk-levels",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10109
+        }
+      ],
+      "SwaggerKey": "SYS-RISK"
+    }
+  ]
+}

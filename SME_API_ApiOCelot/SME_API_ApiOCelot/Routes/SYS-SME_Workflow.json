@@ -1,0 +1,18 @@
+{
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-SME/SME_Project/master/{projectcode}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-SME/SME_Project/master/{projectcode}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10110
+        }
+      ],
+      "SwaggerKey": "SYS-SME"
+    }
+
+  ]
+}

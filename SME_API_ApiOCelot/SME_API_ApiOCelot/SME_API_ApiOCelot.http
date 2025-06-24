@@ -1,0 +1,6 @@
+@SME_API_ApiOCelot_HostAddress = http://localhost:5043
+
+GET {{SME_API_ApiOCelot_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,120 @@
+
+{
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:10100"
+
+  },
+  "SwaggerEndPoints": [
+    {
+      "Key": "SYS-MSME",
+      "Config": [
+        {
+          "Name": "API SME MSME",
+          "Version": "v1",
+          "Url": "http://localhost:10103/swagger/API_SME_MSME_v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "SYS-BUDGET",
+      "Config": [
+        {
+          "Name": "API SME Budget",
+          "Version": "v1",
+          "Url": "http://localhost:10104/swagger/API_SME_BUDGET_v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "SYS-HR",
+      "Config": [
+        {
+          "Name": "API SME HR",
+          "Version": "v1",
+          "Url": "http://localhost:10105/swagger/API_SME_HR_V1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "SYS-GDX",
+      "Config": [
+        {
+          "Name": "API SME GDX",
+          "Version": "v1",
+          "Url": "http://localhost:10106/swagger/API_SME_GDX_V1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "SYS-ACCOUNT",
+      "Config": [
+        {
+          "Name": "API SME ACCOUNT",
+          "Version": "v1",
+          "Url": "http://localhost:10107/swagger/ACCOUNT_V1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "SYS-KPI",
+      "Config": [
+        {
+          "Name": "API SME KPI",
+          "Version": "v1",
+          "Url": "http://localhost:10108/swagger/API_SME_KPI_v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "SYS-RISK",
+      "Config": [
+        {
+          "Name": "API SME RISK",
+          "Version": "v1",
+          "Url": "http://localhost:10109/swagger/API_SME_RISK_v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "SYS-SME",
+      "Config": [
+        {
+          "Name": "API SME WORKFLOW",
+          "Version": "v1",
+          "Url": "http://localhost:10110/swagger/API_SME_WROKFLOW_v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "SYS-E-CONTRACT",
+      "Config": [
+        {
+          "Name": "API E-CONTRACT",
+          "Version": "v1",
+          "Url": "http://localhost:10111/swagger/API_Worflow_v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "SYS-WORKFLOW",
+      "Config": [
+        {
+          "Name": "API WORKFLOW",
+          "Version": "v1",
+          "Url": "http://localhost:10112/swagger/API_Worflow_v1/swagger.json"
+        }
+      ]
+    },
+    {
+      "Key": "SYS-API",
+      "Config": [
+        {
+          "Name": "API API Management",
+          "Version": "v1",
+          "Url": "http://localhost:10113/swagger/v1/swagger.json"
+        }
+      ]
+    }
+
+  ]
+}

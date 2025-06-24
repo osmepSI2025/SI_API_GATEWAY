@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|d:\\git_project\\sme_apimanagement\\sme_api_ocelot_gateway\\sme_api_apiocelot\\sme_api_apiocelot\\apikeyvalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|solutionrelative:sme_api_apiocelot\\apikeyvalidationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|d:\\git_project\\sme_apimanagement\\sme_api_ocelot_gateway\\sme_api_apiocelot\\sme_api_apiocelot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|solutionrelative:sme_api_apiocelot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|d:\\git_project\\sme_apimanagement\\sme_api_ocelot_gateway\\sme_api_apiocelot\\sme_api_apiocelot\\routes\\sys-hr.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|solutionrelative:sme_api_apiocelot\\routes\\sys-hr.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|d:\\git_project\\sme_apimanagement\\sme_api_ocelot_gateway\\sme_api_apiocelot\\sme_api_apiocelot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|solutionrelative:sme_api_apiocelot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|d:\\git_project\\sme_apimanagement\\sme_api_ocelot_gateway\\sme_api_apiocelot\\sme_api_apiocelot\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|solutionrelative:sme_api_apiocelot\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|d:\\git_project\\sme_apimanagement\\sme_api_ocelot_gateway\\sme_api_apiocelot\\sme_api_apiocelot\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|solutionrelative:sme_api_apiocelot\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|d:\\git_project\\sme_apimanagement\\sme_api_ocelot_gateway\\sme_api_apiocelot\\sme_api_apiocelot\\apikeyvalidationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|solutionrelative:sme_api_apiocelot\\apikeyvalidationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|d:\\git_project\\sme_apimanagement\\sme_api_ocelot_gateway\\sme_api_apiocelot\\sme_api_apiocelot\\routes\\sys-sme_api_management.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|solutionrelative:sme_api_apiocelot\\routes\\sys-sme_api_management.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|d:\\git_project\\sme_apimanagement\\sme_api_ocelot_gateway\\sme_api_apiocelot\\sme_api_apiocelot\\routes\\sys-e-contract.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|solutionrelative:sme_api_apiocelot\\routes\\sys-e-contract.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|d:\\git_project\\sme_apimanagement\\sme_api_ocelot_gateway\\sme_api_apiocelot\\sme_api_apiocelot\\routes\\sys-risk.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|solutionrelative:sme_api_apiocelot\\routes\\sys-risk.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|d:\\git_project\\sme_apimanagement\\sme_api_ocelot_gateway\\sme_api_apiocelot\\sme_api_apiocelot\\routes\\sys-account.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|solutionrelative:sme_api_apiocelot\\routes\\sys-account.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|d:\\git_project\\sme_apimanagement\\sme_api_ocelot_gateway\\sme_api_apiocelot\\sme_api_apiocelot\\service\\callapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|solutionrelative:sme_api_apiocelot\\service\\callapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|d:\\git_project\\sme_apimanagement\\sme_api_ocelot_gateway\\sme_api_apiocelot\\sme_api_apiocelot\\service\\icallapiservice.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|solutionrelative:sme_api_apiocelot\\service\\icallapiservice.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|d:\\git_project\\sme_apimanagement\\sme_api_ocelot_gateway\\sme_api_apiocelot\\sme_api_apiocelot\\models\\terrorapilogmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|solutionrelative:sme_api_apiocelot\\models\\terrorapilogmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|d:\\git_project\\sme_apimanagement\\sme_api_ocelot_gateway\\sme_api_apiocelot\\sme_api_apiocelot\\models\\errorresponsemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|solutionrelative:sme_api_apiocelot\\models\\errorresponsemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|d:\\git_project\\sme_apimanagement\\sme_api_ocelot_gateway\\sme_api_apiocelot\\sme_api_apiocelot\\routes\\sys-budget.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|solutionrelative:sme_api_apiocelot\\routes\\sys-budget.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|d:\\git_project\\sme_apimanagement\\sme_api_ocelot_gateway\\sme_api_apiocelot\\sme_api_apiocelot\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E0D76F4-C524-4117-9098-3C1A739FDEB3}|SME_API_ApiOCelot\\SME_API_ApiOCelot.csproj|solutionrelative:sme_api_apiocelot\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\ApiGateway\\ocelot.json",
+              "RelativeDocumentMoniker": "SME_API_ApiOCelot\\ApiGateway\\ocelot.json",
+              "ToolTip": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\ApiGateway\\ocelot.json",
+              "RelativeToolTip": "SME_API_ApiOCelot\\ApiGateway\\ocelot.json",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-24T04:19:36.772Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\Program.cs",
+              "RelativeDocumentMoniker": "SME_API_ApiOCelot\\Program.cs",
+              "ToolTip": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\Program.cs",
+              "RelativeToolTip": "SME_API_ApiOCelot\\Program.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAAIUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:00:20.005Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\appsettings.json",
+              "RelativeDocumentMoniker": "SME_API_ApiOCelot\\appsettings.json",
+              "ToolTip": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\appsettings.json",
+              "RelativeToolTip": "SME_API_ApiOCelot\\appsettings.json",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-20T02:34:21.114Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CallAPIService.cs",
+              "DocumentMoniker": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\Service\\CallAPIService.cs",
+              "RelativeDocumentMoniker": "SME_API_ApiOCelot\\Service\\CallAPIService.cs",
+              "ToolTip": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\Service\\CallAPIService.cs",
+              "RelativeToolTip": "SME_API_ApiOCelot\\Service\\CallAPIService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T02:47:19.071Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICallAPIService.cs",
+              "DocumentMoniker": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\Service\\ICallAPIService.cs",
+              "RelativeDocumentMoniker": "SME_API_ApiOCelot\\Service\\ICallAPIService.cs",
+              "ToolTip": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\Service\\ICallAPIService.cs",
+              "RelativeToolTip": "SME_API_ApiOCelot\\Service\\ICallAPIService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T02:51:14.222Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SYS-HR.json",
+              "DocumentMoniker": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\Routes\\SYS-HR.json",
+              "RelativeDocumentMoniker": "SME_API_ApiOCelot\\Routes\\SYS-HR.json",
+              "ToolTip": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\Routes\\SYS-HR.json",
+              "RelativeToolTip": "SME_API_ApiOCelot\\Routes\\SYS-HR.json",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAiwNEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T07:51:24.091Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "SME_API_ApiOCelot\\WeatherForecast.cs",
+              "ToolTip": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\WeatherForecast.cs",
+              "RelativeToolTip": "SME_API_ApiOCelot\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:52:16.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiKeyValidationMiddleware.cs",
+              "DocumentMoniker": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\ApiKeyValidationMiddleware.cs",
+              "RelativeDocumentMoniker": "SME_API_ApiOCelot\\ApiKeyValidationMiddleware.cs",
+              "ToolTip": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\ApiKeyValidationMiddleware.cs",
+              "RelativeToolTip": "SME_API_ApiOCelot\\ApiKeyValidationMiddleware.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAApwOcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T07:16:35.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiKeyValidationOptions.cs",
+              "DocumentMoniker": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\ApiKeyValidationOptions.cs",
+              "RelativeDocumentMoniker": "SME_API_ApiOCelot\\ApiKeyValidationOptions.cs",
+              "ToolTip": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\ApiKeyValidationOptions.cs",
+              "RelativeToolTip": "SME_API_ApiOCelot\\ApiKeyValidationOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T07:16:33.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SYS-SME_API_Management.json",
+              "DocumentMoniker": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\Routes\\SYS-SME_API_Management.json",
+              "RelativeDocumentMoniker": "SME_API_ApiOCelot\\Routes\\SYS-SME_API_Management.json",
+              "ToolTip": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\Routes\\SYS-SME_API_Management.json",
+              "RelativeToolTip": "SME_API_ApiOCelot\\Routes\\SYS-SME_API_Management.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-07T09:26:03.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SYS-E-CONTRACT.json",
+              "DocumentMoniker": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\Routes\\SYS-E-CONTRACT.json",
+              "RelativeDocumentMoniker": "SME_API_ApiOCelot\\Routes\\SYS-E-CONTRACT.json",
+              "ToolTip": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\Routes\\SYS-E-CONTRACT.json",
+              "RelativeToolTip": "SME_API_ApiOCelot\\Routes\\SYS-E-CONTRACT.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T09:31:08.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SYS-RISK.json",
+              "DocumentMoniker": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\Routes\\SYS-RISK.json",
+              "RelativeDocumentMoniker": "SME_API_ApiOCelot\\Routes\\SYS-RISK.json",
+              "ToolTip": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\Routes\\SYS-RISK.json",
+              "RelativeToolTip": "SME_API_ApiOCelot\\Routes\\SYS-RISK.json",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAGsAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T09:25:44.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SYS-ACCOUNT.json",
+              "DocumentMoniker": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\Routes\\SYS-ACCOUNT.json",
+              "RelativeDocumentMoniker": "SME_API_ApiOCelot\\Routes\\SYS-ACCOUNT.json",
+              "ToolTip": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\Routes\\SYS-ACCOUNT.json",
+              "RelativeToolTip": "SME_API_ApiOCelot\\Routes\\SYS-ACCOUNT.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T09:10:07.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TErrorApiLogModels.cs",
+              "DocumentMoniker": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\Models\\TErrorApiLogModels.cs",
+              "RelativeDocumentMoniker": "SME_API_ApiOCelot\\Models\\TErrorApiLogModels.cs",
+              "ToolTip": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\Models\\TErrorApiLogModels.cs",
+              "RelativeToolTip": "SME_API_ApiOCelot\\Models\\TErrorApiLogModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T02:25:01.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorResponseModels.cs",
+              "DocumentMoniker": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\Models\\ErrorResponseModels.cs",
+              "RelativeDocumentMoniker": "SME_API_ApiOCelot\\Models\\ErrorResponseModels.cs",
+              "ToolTip": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\Models\\ErrorResponseModels.cs",
+              "RelativeToolTip": "SME_API_ApiOCelot\\Models\\ErrorResponseModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T02:26:40.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SYS-BUDGET.json",
+              "DocumentMoniker": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\Routes\\SYS-BUDGET.json",
+              "RelativeDocumentMoniker": "SME_API_ApiOCelot\\Routes\\SYS-BUDGET.json",
+              "ToolTip": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\Routes\\SYS-BUDGET.json",
+              "RelativeToolTip": "SME_API_ApiOCelot\\Routes\\SYS-BUDGET.json",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-08T06:29:15.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "SME_API_ApiOCelot\\appsettings.Development.json",
+              "ToolTip": "D:\\Git_project\\SME_APIManagement\\SME_API_Ocelot_Gateway\\SME_API_ApiOCelot\\SME_API_ApiOCelot\\appsettings.Development.json",
+              "RelativeToolTip": "SME_API_ApiOCelot\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T03:18:25.673Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
