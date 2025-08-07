@@ -326,7 +326,7 @@
       "SwaggerKey": "SYS-RISK"
     },
     {
-      "UpstreamPathTemplate": "/sme_gateway/SYS-RISK/risk/risk-levels",
+      "UpstreamPathTemplate": "/sme_gateway/SYS-RISK/risk/risk-risk-levels",
       "UpstreamHttpMethod": [ "POST" ],
       "DownstreamPathTemplate": "/api/SYS-RISK/risk/risk-risk-levels",
       "DownstreamScheme": "http",
