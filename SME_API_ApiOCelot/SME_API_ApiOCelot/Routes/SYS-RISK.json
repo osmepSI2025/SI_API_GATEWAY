@@ -328,7 +328,7 @@
     {
       "UpstreamPathTemplate": "/sme_gateway/SYS-RISK/risk/risk-levels",
       "UpstreamHttpMethod": [ "POST" ],
-      "DownstreamPathTemplate": "/api/SYS-RISK/risk/risk-levels",
+      "DownstreamPathTemplate": "/api/SYS-RISK/risk/risk-risk-levels",
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
