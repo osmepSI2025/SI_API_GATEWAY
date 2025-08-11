@@ -171,7 +171,7 @@
     },
     {
       "UpstreamPathTemplate": "/sme_gateway/SYS-KPI/kpiSystem/GetKpiAssign",
-      "UpstreamHttpMethod": [ "GET" ],
+      "UpstreamHttpMethod": [ "POST" ],
       "DownstreamPathTemplate": "/api/SYS-KPI/kpiSystem/GetKpiAssign",
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
