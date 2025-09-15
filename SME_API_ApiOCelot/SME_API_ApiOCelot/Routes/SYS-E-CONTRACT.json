@@ -1,7 +1,7 @@
 {
   "Routes": [
     {
-      "UpstreamPathTemplate": "/sme_gateway/SYS-E-CONTRACT/Project/{projectcode}",
+      "UpstreamPathTemplate": "/sme_gateway/SYS-E-CONTRACT/SME-ECONTRACT/Project/{projectcode}",
       "UpstreamHttpMethod": [ "GET" ],
       "DownstreamPathTemplate": "/api/SYS-E-CONTRACT/Project/{projectcode}",
       "DownstreamScheme": "http",

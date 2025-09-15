@@ -1,7 +1,7 @@
 {
   "Routes": [
     {
-      "UpstreamPathTemplate": "/sme_gateway/SYS-HR/employees",
+      "UpstreamPathTemplate": "/sme_gateway/SYS-HR/employees/employees",
       "UpstreamHttpMethod": [ "GET" ],
       "DownstreamPathTemplate": "/api/SYS-HR/employees",
       "DownstreamScheme": "http",
@@ -27,7 +27,7 @@
       "SwaggerKey": "SYS-HR"
     },
     {
-      "UpstreamPathTemplate": "/sme_gateway/SYS-HR/employees/{empId}/employee-profile",
+      "UpstreamPathTemplate": "/sme_gateway/SYS-HR/employees/employee-profile/{empId}",
       "UpstreamHttpMethod": [ "GET" ],
       "DownstreamPathTemplate": "/api/SYS-HR/employees/{empId}/profile",
       "DownstreamScheme": "http",
@@ -105,7 +105,7 @@
       "SwaggerKey": "SYS-HR"
     },
     {
-      "UpstreamPathTemplate": "/sme_gateway/SYS-HR/org/{id}/employees-bybuid",
+      "UpstreamPathTemplate": "/sme_gateway/SYS-HR/org/employees-bybuid/{id}",
       "UpstreamHttpMethod": [ "GET" ],
       "DownstreamPathTemplate": "/api/SYS-HR/org/{id}/employees",
       "DownstreamScheme": "http",
@@ -183,7 +183,7 @@
       "SwaggerKey": "SYS-HR"
     },
     {
-      "UpstreamPathTemplate": "/sme_gateway/SYS-HR/Position",
+      "UpstreamPathTemplate": "/sme_gateway/SYS-HR/Position/Position",
       "UpstreamHttpMethod": [ "GET" ],
       "DownstreamPathTemplate": "/api/SYS-HR/Position",
       "DownstreamScheme": "http",
@@ -196,7 +196,7 @@
       "SwaggerKey": "SYS-HR"
     },
     {
-      "UpstreamPathTemplate": "/sme_gateway/SYS-HR/position-code/{code}",
+      "UpstreamPathTemplate": "/sme_gateway/SYS-HR/Position/position-code/{code}",
       "UpstreamHttpMethod": [ "GET" ],
       "DownstreamPathTemplate": "/api/SYS-HR/Position/{code}",
       "DownstreamScheme": "http",

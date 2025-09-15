@@ -129,6 +129,19 @@
         }
       ],
       "SwaggerKey": "SYS-BUDGET"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-BUDGET/RecP301/{year}/{projectCode}/{ref_code}",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-BUDGET/RecP301/{year}/{projectCode}/{ref_code}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10104
+        }
+      ],
+      "SwaggerKey": "SYS-BUDGET"
     }
   ]
 }

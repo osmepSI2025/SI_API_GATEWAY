@@ -220,6 +220,19 @@
         }
       ],
       "SwaggerKey": "SYS-KPI"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-KPI/kpiSystem/exportEval",
+      "UpstreamHttpMethod": [ "POST" ],
+      "DownstreamPathTemplate": "/api/SYS-KPI/kpiSystem/exportEval",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10108
+        }
+      ],
+      "SwaggerKey": "SYS-KPI"
     }
   ]
 }

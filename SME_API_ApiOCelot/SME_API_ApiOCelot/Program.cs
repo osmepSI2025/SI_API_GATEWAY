@@ -85,7 +85,6 @@ try
         serverOptions.ListenAnyIP(10100); // เปิดพอร์ต 10100
     });
     // Use the Serilog extension method for the Host
-    //builder.Host.UseSerilog();
     builder.Services.AddCors(options =>
     {
         options.AddDefaultPolicy(policy =>
@@ -117,8 +116,6 @@ try
 
     // Write merged routes to a temp file
     var mergedRoutes = new { Routes = allRoutes };
-    // var mergedRoutesPath = Path.Combine(Path.GetTempPath(), "ocelot.merged.routes.json");
-   // var mergedRoutesPath = Path.Combine(builder.Environment.ContentRootPath, "ocelot.merged.routes.json");
     var mergedRoutesPath = Path.Combine(builder.Environment.WebRootPath ?? Path.Combine(builder.Environment.ContentRootPath, "wwwroot"), "ocelot.merged.routes.json");
 
     File.WriteAllText(mergedRoutesPath, JsonSerializer.Serialize(mergedRoutes));
@@ -135,14 +132,7 @@ try
     // Add this in the section where you configure services
     builder.Services.AddScoped<ICallAPIService, CallAPIService>();
     builder.Services.AddSwaggerForOcelot(builder.Configuration);
-    //builder.Services.AddSwaggerGen(c =>
-    //{
-    //    c.SwaggerDoc("v1", new OpenApiInfo
-    //    {
-    //        Title = "API Gateway",
-    //        Version = "v1"
-    //    });
-    //});
+   
     builder.Services.AddSwaggerGen(c =>
     {
         c.SwaggerDoc("v1", new OpenApiInfo

@@ -1,9 +1,22 @@
 {
   "Routes": [
     {
-      "UpstreamPathTemplate": "/sme_gateway/SYS-SME/SME_Project/master/{projectcode}",
+      "UpstreamPathTemplate": "/sme_gateway/SYS-SME/SME_Project/master/SmeProject?year={year}",
       "UpstreamHttpMethod": [ "GET" ],
-      "DownstreamPathTemplate": "/api/SYS-SME/SME_Project/master/{projectcode}",
+      "DownstreamPathTemplate": "/api/SYS-SME/SME_Project/master/SmeProject?year={year}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 10110
+        }
+      ],
+      "SwaggerKey": "SYS-SME"
+    },
+    {
+      "UpstreamPathTemplate": "/sme_gateway/SYS-SME/SME_Project/master/Strategy?year={year}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/api/SYS-SME/SME_Project/master/Strategy?year={year}",
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
